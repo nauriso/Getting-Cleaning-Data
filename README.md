@@ -3,9 +3,9 @@ Getting-Cleaning-Data Analysis README
 
 #### This repository contains following files:
 
-- README.md: description of repository & analysis
-- run_analysis.R: R script to transform raw data to tidy data
-- CodeBook.md: information about variables 
+- **README.md**: description of repository & analysis
+- **run_analysis.R**: R script to transform raw data to tidy data
+- **CodeBook.md**: information about variables 
 
 
 
