@@ -1,7 +1,7 @@
 Getting-Cleaning-Data
 =====================
 
-# This repository contains following files:
+### This repository contains following files:
 
 - README.md: description of repository & analysis
 - run_analysis.R: R script to transform raw data to tidy data
@@ -10,7 +10,7 @@ Getting-Cleaning-Data
 
 
 
-# File run_analysis.R does the following:
+### File run_analysis.R does the following:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
