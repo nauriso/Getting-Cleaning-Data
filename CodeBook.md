@@ -1,7 +1,7 @@
 CodeBook
 =====================
 
-Variable names changed to according tidy data:
+Variable names changed to according tidy data rules:
 
 | **Original variable**           | **Renamed variable**                              |
 |---------------------------------|---------------------------------------------------|
