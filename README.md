@@ -1,4 +1,4 @@
-Getting-Cleaning-Data
+Getting-Cleaning-Data Analysis README
 =====================
 
 #### This repository contains following files:
@@ -19,4 +19,3 @@ Getting-Cleaning-Data
 5 .From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-Getting and Cleaning Data
